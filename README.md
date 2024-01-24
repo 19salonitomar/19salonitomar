@@ -1,3 +1,4 @@
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 <h1 align="center">Hello 👋, I'm Saloni Tomar 🕵️‍♂️</h1>
 <h4 align="center">"Data Alchemist: Unveiling Patterns for Informed Decisions | Analytics 📈 | Visualization 📊 | ML Enthusiast 🤖"</h4>
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
