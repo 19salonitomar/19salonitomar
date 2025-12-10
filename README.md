@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I'm <span style="color:#FF69B4">Saloni Tomar</span> 🧠</h1>
 <h4 align="center">"Data Alchemist 🧪 | Turning Raw Data into Gold Insights ✨ | ML Enthusiast 🤖 | Full Stack Explorer 💻"</h4>
 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="Coding" width="250" src="https://github.com/19salonitomar/19salonitomar/blob/main/Github.png">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=19salonitomar&label=Profile%20views&color=0e75b6&style=flat" alt="19salonitomar" />
