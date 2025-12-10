@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
+![MasterHead](https://github.com/19salonitomar/19salonitomar/blob/main/Profile.png)
 
 <h1 align="center">Hello 👋, I'm <span style="color:#FF69B4">Saloni Tomar</span> 🧠</h1>
 <h4 align="center">"Data Alchemist 🧪 | Turning Raw Data into Gold Insights ✨ | ML Enthusiast 🤖 | Full Stack Explorer 💻"</h4>
