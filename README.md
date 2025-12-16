@@ -163,4 +163,10 @@
 
 ---
 
+### 🏆 Achievements Badges
+
+<p align="center"> <img src="https://img.shields.io/badge/Google-Advanced%20Data%20Analytics-4285F4?style=for-the-badge&logo=google" /> <img src="https://img.shields.io/badge/Accenture-Data%20Analytics%20&%20Visualization-8300FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/iNeuron-Machine%20Learning-00A86B?style=for-the-badge" /> <img src="https://img.shields.io/badge/NamasteDev-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" /> </p>
+
+---
+
 ✨ _Thanks for visiting! Keep coding and stay curious._ 🚀
