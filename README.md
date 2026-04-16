@@ -50,99 +50,39 @@
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 
-<p align="left">
+<table>
+<tr>
+<td align="center">HTML<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></td>
+<td align="center">CSS<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></td>
+<td align="center">JavaScript<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
+<td align="center">React<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td>
+<td align="center">Next.js<br><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></td>
+</tr>
 
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
+<tr>
+<td align="center">Java<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
+<td align="center">Python<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+<td align="center">MongoDB<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></td>
+<td align="center">MySQL<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></td>
+<td align="center">Node.js<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td>
+</tr>
 
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
+<tr>
+<td align="center">Docker<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
+<td align="center">Kubernetes<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/></td>
+<td align="center">Spring Boot<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/></td>
+<td align="center">AWS<br><img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="40"/></td>
+<td align="center">Git<br><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+</tr>
 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
-  </a>
-
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-
-  <!-- Angular -->
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="Angular" width="40" height="40"/>
-  </a>
-
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-
-  <!-- Scikit-learn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-
-  <!-- AI -->
-  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712033.png" alt="AI" width="40" height="40"/>
-  </a>
-
-  <!-- Data Analysis -->
-  <a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" alt="Data Analysis" width="40" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="40" height="40"/>
-  </a>
-
-</p>
+<tr>
+<td align="center">GitHub<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>
+<td align="center">AI/ML<br><img src="https://cdn-icons-png.flaticon.com/512/4712/4712033.png" width="40"/></td>
+<td align="center">Data Analysis<br><img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="40"/></td>
+<td align="center">Microservices<br><img src="https://cdn-icons-png.flaticon.com/512/2721/2721268.png" width="40"/></td>
+<td align="center">CodeRabbit<br><img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/></td>
+</tr>
+</table>
 
 
 ---
