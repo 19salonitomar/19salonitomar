@@ -24,7 +24,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; gap:15px; flex-wrap:nowrap;">
   <a href="https://twitter.com/T03015843" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="30" width="30" alt="Twitter"/>
   </a>
@@ -37,14 +37,13 @@
   <a href="mailto:salonitomar5813@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/u/TomarSaloni/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="30" />
+  <a href="https://leetcode.com/u/TomarSaloni/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="30" alt="Leetcode"/>
   </a>
-<a href="https://medium.com/@salonitomar5813" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" />
-</a>
+  <a href="https://medium.com/@salonitomar5813" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="30" alt="Medium"/>
+  </a>
 </p>
-
 
 ---
 
