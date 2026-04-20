@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **React.js Projects** 📈  
+- 🔭 I’m currently working on **MERN Projects** 📈  
 - 🌱 I’m learning **DSA, Java, and MERN Stack** 💻  
 - 💬 Ask me about:  
   🐍 Pythonic Analytics • 🤖 Machine Learning • 📊 Data Visualization • 💡 Predictive Modeling  
